@@ -2,6 +2,13 @@
 
 Proyecto Primer Parcial - Programación Orientada a Objetos
 
+GRUPO 8:
+* MERO VALENTINA
+* SALINAS JOEL
+* VARGAS ANDREA
+* BENALCAZAR NATHALY
+
+
 📋 📌 DESCRIPCIÓN DEL PROYECTO
 
 Este proyecto implementa un Sistema de Gestión de Servicios para un Gimnasio utilizando Programación Orientada a Objetos en Python. Permite administrar diferentes tipos de membresías, clientes y operaciones del gimnasio.
@@ -81,41 +88,12 @@ Pasos de ejecución
 
 🏗️ 📐 DIAGRAMA DE CLASES
 
-┌─────────────────────────────────┐
-│      ServicioGym (Abstract)     │
-├─────────────────────────────────┤
-│ - _nombre: str                  │
-│ - _precio_base: float           │
-├─────────────────────────────────┤
-│ + nombre: str (property)        │
-│ + precio_base: float (property) │
-│ + calcular_costo()*             │
-│ + __str__()                     │
-└───────────┬─────────────────────┘
-            │
-    ┌───────┴───────┐
-    ▼               ▼
-┌─────────────┐ ┌─────────────┐
-│ Membresía   │ │ Membresía   │
-│ Presencial  │ │ Virtual     │
-├─────────────┤ ├─────────────┤
-│ - acceso_   │ │ - plan_     │
-│   sala      │ │   videos    │
-│ - acceso_   │ │ - incluye_  │
-│   clases    │ │   app       │
-└─────────────┘ └─────────────┘
-         │               │
-         └───────┬───────┘
-                 ▼
-        ┌─────────────────┐
-        │   GestorGym     │
-        ├─────────────────┤
-        │ - servicios[]   │
-        ├─────────────────┤
-        │ + agregar()     │
-        │ + calcular_     │
-        │   total()       │
-        │ + generar_      │
-        │   reporte()     │
-        └─────────────────┘
+
+<img width="2544" height="3026" alt="deepseek_mermaid_20251204_fe0535" src="https://github.com/user-attachments/assets/8a4e93dd-8b92-4770-8961-520a67566450" />
+
+📌 CAPTURAS DE EJECUCION
+<img width="1365" height="765" alt="Captura de pantalla 2025-12-03 232917" src="https://github.com/user-attachments/assets/c991e32e-0c72-417d-9ef9-258e2d194712" />
+<img width="1365" height="763" alt="Captura de pantalla 2025-12-03 232929" src="https://github.com/user-attachments/assets/d5cfb30e-5e71-4fd9-a5b1-65f37b5c9d05" />
+<img width="1365" height="767" alt="Captura de pantalla 2025-12-03 232939" src="https://github.com/user-attachments/assets/f0f72721-63d2-483e-b2ed-cf10e94497af" />
+<img width="1365" height="767" alt="Captura de pantalla 2025-12-03 232948" src="https://github.com/user-attachments/assets/9e2fecf5-911c-4671-b9ac-f534f5efcaaf" />
 
