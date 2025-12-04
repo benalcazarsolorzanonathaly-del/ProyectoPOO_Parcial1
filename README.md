@@ -97,3 +97,5 @@ Pasos de ejecución
 <img width="1365" height="767" alt="Captura de pantalla 2025-12-03 232939" src="https://github.com/user-attachments/assets/f0f72721-63d2-483e-b2ed-cf10e94497af" />
 <img width="1365" height="767" alt="Captura de pantalla 2025-12-03 232948" src="https://github.com/user-attachments/assets/9e2fecf5-911c-4671-b9ac-f534f5efcaaf" />
 
+📌 LINK VIDEO
+
