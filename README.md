@@ -96,6 +96,8 @@ Pasos de ejecución
 [CAPTURA DE LA EJECUCION - GRUPO 8.pdf](https://github.com/user-attachments/files/23964406/CAPTURA.DE.LA.EJECUCION.-.GRUPO.8.pdf)
 
 📌 LINK VIDEO
+https://drive.google.com/file/d/1y3bkIS0NLFcfLdyNCokEov5oMHgFvX2N/view?usp=sharing
+
 
 
 
